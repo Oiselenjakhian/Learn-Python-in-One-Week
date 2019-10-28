@@ -1,3 +1,4 @@
-# Learn-Python-in-One-Week
-A repository of all the code for the book Learn Python in One Week.
-![Learn Python in One Week](https://github.com/Oiselenjakhian/Learn-Python-in-One-Week/blob/master/Learn%20Python%20in%20One%20Week.png)
+# Learn Python in One Week
+This is a quick and simple introduction to the Python programming language.
+
+[Learn Python in One Week](https://www.amazon.com/gp/product/B07YCXLV4Y/ "Buy The Book") is available for sale on the Amazon store.
